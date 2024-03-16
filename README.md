@@ -5,7 +5,7 @@
 
  - python portscanner.py <EndereçoIP>
 
-##Substitua <EndereçoIP> pelo IP ou nome de domínio alvo.
+## Substitua <EndereçoIP> pelo IP ou nome de domínio alvo.
 
 ## Requisitos
  - Python 3.x
